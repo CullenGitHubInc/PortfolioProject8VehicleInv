@@ -1,0 +1,14 @@
+Current inventory:
+Vehicle 1: 2015 Honda Civic (Black) with 17000 miles
+Vehicle 2: 2021 Ford Escort (Blue) with 24000 miles
+Vehicle 3: 2022 Toyota Tacoma (White) with 7000 miles
+
+Inventory after update:
+Vehicle 1: 2015 Honda Civic (Black) with 17000 miles
+Vehicle 2: 2021 Ford Escort (Blue) with 32000 miles
+Vehicle 3: 2022 Toyota Tacoma (White) with 7000 miles
+
+Inventory after removal:
+Vehicle 1: 2021 Ford Escort (Blue) with 32000 miles
+Vehicle 2: 2022 Toyota Tacoma (White) with 7000 miles
+PS C:\Users\CWilliam>
